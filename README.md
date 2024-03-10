@@ -11,3 +11,6 @@ Dalam program tersebut, terdapat dua kelas utama: Clothing dan ClothingStore.
 Pada program initerdapat penggunaan asynchronous dengan menggunakan Future<void> dalam metode displayClothing pada kelas ClothingStore.
 Metode displayClothing menggunakan await Future.delayed(Duration(seconds: 1)); untuk mensimulasikan operasi yang membutuhkan waktu (dalam kasus ini, penundaan selama satu detik). Ini memungkinkan program untuk tetap responsif sementara menunggu hasil operasi yang bersifat asynchronous.
 Dengan menggunakan async/await, program dapat melanjutkan eksekusi kode lainnya tanpa harus menunggu proses asynchronous selesai.
+
+## Dokumentasi
+<img width="347" alt="image" src="https://github.com/rifkytech07/TP1PROVIS2024C2/assets/147624515/bf9fa9de-e1bc-4640-86b5-f45c67dd6b50">
